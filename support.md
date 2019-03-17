@@ -1,4 +1,4 @@
 ### Support
 
-Developer: Grant Maloney
+Developer: Grant Maloney  
 Contact Email: grant.maloney@live.com
